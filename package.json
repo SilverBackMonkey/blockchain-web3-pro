@@ -1,0 +1,25 @@
+{
+  "name": "blockchain-web3-pro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dancingball/blockchain-web3-pro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dancingball/blockchain-web3-pro/issues"
+  },
+  "homepage": "https://github.com/dancingball/blockchain-web3-pro#readme",
+  "devDependencies": {
+    "hardhat": "^2.16.1",
+    "solc": "^0.8.20",
+    "typescript": "^5.1.6"
+  }
+}
